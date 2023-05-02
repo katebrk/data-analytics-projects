@@ -1,2 +1,2 @@
-# dc
+# datac
 Datacamp projects and competitions
