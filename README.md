@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Data Analytics Projects
 
 This repository is a place to share my code, notebooks and screens for data analytics projects using SQL, Python and Power BI. 
 
