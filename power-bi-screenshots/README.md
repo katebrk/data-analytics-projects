@@ -1,8 +1,12 @@
-# Data Analytics Projects
+## Power BI Screenshots
 
-This repository is a place to share my code, notebooks and screens for data analytics projects using SQL, Python and Power BI. 
+This folder contains some real examples of dashboards developed in Power BI from scratch. 
 
-Current projects:
-* [sales-data](sales_data/notebook.ipynb) - exploratory data analysis report that includes data manipulation, visualizations with plotly and seaborn, correlation, Time Series, Linear Regression. 
-* lego-sets-popularity - exploratory data analysis with SQL for data manipulations and Python (plotly) for data visualizations. 
-* ower-bi-screenshots - some real examples of dashboards developed in Power BI from scratch.
+<img src="https://github.com/katebrk/data-analytics-projects/blob/main/power-bi-screenshots/crash-free-users.png" width="50%">
+
+<img src="https://github.com/katebrk/data-analytics-projects/blob/main/power-bi-screenshots/support-dash.png" width="50%">
+
+<img src="https://github.com/katebrk/data-analytics-projects/blob/main/power-bi-screenshots/active-users.png" width="50%">
+
+<img src="https://github.com/katebrk/data-analytics-projects/blob/main/power-bi-screenshots/sync-dash.png" width="50%">
+
