@@ -5,6 +5,5 @@ This repository is a place to share my code, notebooks and screens for data anal
 Current projects:
 * [sales_data](sales_data/notebook.ipynb) - exploratory data analysis report that includes data manipulation, visualizations with plotly and seaborn, correlation, Time Series, Linear Regression. 
 * [lego_sets_popularity](lego_sets_popularity/notebook.ipynb)  - exploratory data analysis with SQL for data manipulations and Python (plotly) for data visualizations. 
-* [power-bi-screenshots](power-bi-screenshots/README.md) - some real examples of dashboards developed in Power BI from scratch.
 
 
